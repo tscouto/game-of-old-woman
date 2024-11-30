@@ -53,4 +53,5 @@ Aqui estão algumas imagens do jogo para ilustrar as telas:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/tscouto/jogo-da-velha.git
+  
+   git clone https://github.com/tscouto/game-of-old-woman.git
